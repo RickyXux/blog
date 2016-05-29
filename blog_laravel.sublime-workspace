@@ -1,0 +1,1083 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"chick",
+				"chickout_time"
+			],
+			[
+				"str",
+				"strtotime"
+			],
+			[
+				"card",
+				"card_id"
+			],
+			[
+				"auto",
+				"autoplay	Attr"
+			],
+			[
+				"inst_contact",
+				"inst_contact_tel"
+			],
+			[
+				"rep",
+				"replaceWith"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"TMPL_ACTION_",
+				"TMPL_ACTION_SUCCESS"
+			],
+			[
+				"consu",
+				"consume_xd"
+			],
+			[
+				"redi",
+				"redirect"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"en",
+				"encrypt"
+			],
+			[
+				"Now",
+				"now_money"
+			],
+			[
+				"_al",
+				"_alert_back"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"as",
+				"as_fields"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"cons",
+				"consume_dd"
+			],
+			[
+				"ju",
+				"jquery-1.11.3.min.js"
+			],
+			[
+				"jqu",
+				"jqueryblockui.js"
+			],
+			[
+				"blico",
+				"blockUI.isBlocked"
+			],
+			[
+				"block",
+				"blockUI"
+			],
+			[
+				"inst",
+				"instPassword"
+			],
+			[
+				"now",
+				"now_days"
+			],
+			[
+				"where",
+				"where('complete_time"
+			],
+			[
+				"border-bottom",
+				"border-bottom-color"
+			],
+			[
+				"order",
+				"order	->order"
+			],
+			[
+				"parsent",
+				"parsent_parsent_id"
+			],
+			[
+				"get",
+				"getpage"
+			],
+			[
+				"index",
+				"indexpagenumb"
+			],
+			[
+				"create",
+				"create_time"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"js",
+				"jQuery-1.11.3.min.js"
+			],
+			[
+				"frame",
+				"frameset	Tag"
+			],
+			[
+				"red",
+				"redirect()"
+			],
+			[
+				"get_client_ip",
+				"get_client_ip"
+			],
+			[
+				"value",
+				"value=\"蜡笔小新"
+			],
+			[
+				"H",
+				"H:i:s"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"var_du",
+				"var_dump"
+			],
+			[
+				"secl",
+				"selected"
+			],
+			[
+				"aler",
+				"alertLocation"
+			],
+			[
+				"_ad",
+				"_admin_pass"
+			],
+			[
+				"back",
+				"backgroundPosition"
+			],
+			[
+				"filemtime",
+				"filemtime"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"_aler",
+				"_alertBack"
+			],
+			[
+				"_ale",
+				"_alertBack"
+			],
+			[
+				"simplexml",
+				"simplexml_load_file"
+			],
+			[
+				"geTNA",
+				"id3_get_genre_name"
+			],
+			[
+				"R",
+				"ReflectionClass"
+			],
+			[
+				"interfa",
+				"interface_exists"
+			],
+			[
+				"key",
+				"_key"
+			],
+			[
+				"verti",
+				"vertical-align"
+			],
+			[
+				"_fetch",
+				"_fetch_array_list"
+			],
+			[
+				"tg_photo",
+				"tg_photo_commend"
+			],
+			[
+				"_new",
+				"_new_width"
+			],
+			[
+				"explo",
+				"explode"
+			],
+			[
+				"getELE",
+				"getElementsByTagName"
+			],
+			[
+				"_fil",
+				"_FILES"
+			],
+			[
+				"W",
+				"WHERE"
+			],
+			[
+				"_alert",
+				"_alert_back"
+			],
+			[
+				"_session",
+				"_SESSION"
+			],
+			[
+				"_cookie",
+				"_COOKIE"
+			],
+			[
+				"_num",
+				"_max_num"
+			],
+			[
+				"replac",
+				"preg_replace"
+			],
+			[
+				"file_get",
+				"file_get_contents"
+			],
+			[
+				"preg_ma",
+				"preg_match_all"
+			],
+			[
+				"preg_mat",
+				"preg_match_all"
+			],
+			[
+				"fw",
+				"fwrite"
+			],
+			[
+				"fcl",
+				"fclose"
+			],
+			[
+				"fopen",
+				"fopen"
+			],
+			[
+				"flock",
+				"flock"
+			],
+			[
+				"LOCK",
+				"LOCK_EX"
+			],
+			[
+				"member",
+				"member_friend"
+			],
+			[
+				"TG",
+				"tg_uniqid"
+			],
+			[
+				"mem",
+				"member_friend"
+			],
+			[
+				"tg_id",
+				"tg_id='{$_GET['id"
+			],
+			[
+				"_fet",
+				"_fetch_array"
+			],
+			[
+				"mb_strl",
+				"mb_strlen"
+			],
+			[
+				"mb_sub",
+				"mb_substr_count"
+			],
+			[
+				"_coo",
+				"_COOKIE"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"_che",
+				"_check_face"
+			],
+			[
+				"_in",
+				"_min_num"
+			],
+			[
+				"_pge",
+				"_pageabsolute"
+			],
+			[
+				"_page",
+				"_pageabsolute"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"location",
+				"_location"
+			],
+			[
+				"gl",
+				"global"
+			],
+			[
+				"mys",
+				"mysql_close"
+			],
+			[
+				"mysql_e",
+				"mysql_error"
+			],
+			[
+				"_en",
+				"_end_uniqid"
+			],
+			[
+				"_fi",
+				"_first_uniqid"
+			],
+			[
+				"func",
+				"function_exists"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"D",
+				"DB_PASSWORD"
+			],
+			[
+				"phot",
+				"photo_big"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"eval",
+				"evaluate"
+			],
+			[
+				"serialize",
+				"serializeXML"
+			],
+			[
+				"getEl",
+				"getElementById"
+			],
+			[
+				"gete",
+				"getElementById"
+			],
+			[
+				"add",
+				"addEvent"
+			],
+			[
+				"re",
+				"removeEvent"
+			],
+			[
+				"rev",
+				"removeEventListener"
+			],
+			[
+				"remov",
+				"removeEventListener"
+			],
+			[
+				"addE",
+				"addEventListener"
+			],
+			[
+				"srce",
+				"srcElement"
+			],
+			[
+				"attach",
+				"attachEvent"
+			],
+			[
+				"addeventli",
+				"addEventListener"
+			],
+			[
+				"classn",
+				"className='blue"
+			],
+			[
+				"onclick",
+				"onclick=function"
+			],
+			[
+				"fff",
+				"f5f5f5"
+			],
+			[
+				"getElement",
+				"getElementsByTagName"
+			],
+			[
+				"c",
+				"cName"
+			],
+			[
+				"M",
+				"Monaco"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"IE",
+				"IE引擎版本为："
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/Controllers/Admin/CategoryController.php",
+			"settings":
+			{
+				"buffer_size": 3112,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/admin/category/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 5429,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 1203,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"in",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"i",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 608.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/wamp/www/blog",
+		"/D/wamp/www/blog/app",
+		"/D/wamp/www/blog/app/Http",
+		"/D/wamp/www/blog/app/Http/Controllers",
+		"/D/wamp/www/blog/app/Http/Controllers/Admin",
+		"/D/wamp/www/blog/app/Http/Models",
+		"/D/wamp/www/blog/resources",
+		"/D/wamp/www/blog/resources/views",
+		"/D/wamp/www/blog/resources/views/admin",
+		"/D/wamp/www/blog/resources/views/admin/category",
+		"/D/wamp/www/blog/resources/views/admin/style",
+		"/D/wamp/www/blog/resources/views/admin/style/js",
+		"/D/wamp/www/blog/resources/views/layouts"
+	],
+	"file_history":
+	[
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Windows/System32/drivers/etc/hosts - 副本.ics",
+		"/C/Windows/System32/drivers/etc/hosts - 副本",
+		"/D/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/D/wamp/bin/apache/apache2.4.9/conf/extra/httpd-vhosts.conf",
+		"/D/wamp/www/blog_ricky/index.html",
+		"/E/软件学习/PHP/lavarel/老师代码/30.laravel5.2博客项目实战开发 后台文章分类添加模版分配及父级分类嵌入/blog/app/Http/Controllers/Admin/CategoryController.php",
+		"/D/wamp/www/blog/resources/views/admin/style/js/jquery.js",
+		"/D/Sublime Text3/Sublime Text 3/Data/Packages/Laravel-5-Artisan-master/Laravel 5 Artisan.sublime-commands",
+		"/D/Sublime Text3/Sublime Text 3/Data/Packages/Laravel-5-Artisan-master/Laravel 5 Artisan.sublime-settings",
+		"/E/软件学习/PHP/lavarel/老师代码/30.laravel5.2博客项目实战开发 后台文章分类添加模版分配及父级分类嵌入/blog/resources/views/admin/category/index.blade.php",
+		"/E/软件学习/PHP/lavarel/老师代码/30.laravel5.2博客项目实战开发 后台文章分类添加模版分配及父级分类嵌入/blog/resources/views/admin/category/add.blade.php",
+		"/D/wamp/www/blog/resources/views/admin/category/add.blade.php",
+		"/D/wamp/www/blog/resources/views/admin/category/index.blade.php",
+		"/E/软件学习/PHP/lavarel/老师代码/30.laravel5.2博客项目实战开发 后台文章分类添加模版分配及父级分类嵌入/blog/app/Http/Model/Category.php",
+		"/D/wamp/www/blog/app/Http/Models/Category.php",
+		"/E/软件学习/PHP/lavarel/老师代码/29.laravel5.2博客项目实战开发 后台文章分类页Ajax异步修改分类排序/blog/resources/views/admin/category/index.blade.php",
+		"/D/wamp/www/blog/resources/views/layouts/admin.blade.php",
+		"/E/软件学习/PHP/lavarel/老师代码/29.laravel5.2博客项目实战开发 后台文章分类页Ajax异步修改分类排序/blog/app/Http/Controllers/Admin/CategoryController.php",
+		"/D/wamp/www/blog/resources/views/admin/category.blade.php",
+		"/E/软件学习/PHP/lavarel/老师代码/29.laravel5.2博客项目实战开发 后台文章分类页Ajax异步修改分类排序/blog/app/Http/Model/Category.php",
+		"/D/wamp/www/blog/app/Http/Controllers/Admin/LoginController.php",
+		"/D/wamp/www/blog/resources/views/admin/login.blade.php",
+		"/D/wamp/www/blog/app/Http/routes.php",
+		"/D/wamp/www/blog/app/Http/Middleware/AdminLogin.php",
+		"/D/wamp/www/blog/app/Http/Controllers/Admin/IndexController.php",
+		"/D/wamp/www/blog/config/app.php",
+		"/E/软件学习/PHP/lavarel/老师代码/22.laravel5.2博客项目实战开发 后台登陆密码Crypt加密和解密/blog/blog/resources/views/admin/login.blade.php",
+		"/D/wamp/www/blog/resources/views/admin/pass.blade.php",
+		"/D/wamp/www/blog/index.php",
+		"/E/软件学习/PHP/lavarel/老师代码/22.laravel5.2博客项目实战开发 后台登陆密码Crypt加密和解密/blog/blog/app/Http/Controllers/Admin/LoginController.php",
+		"/D/My Documents/GitHub/test/test.php",
+		"/D/My Documents/GitHub/test/.gitignore",
+		"/D/wamp/www/elder/elder/Home/View/Oldman/top.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Server/top.tpl",
+		"/D/wamp/www/elder/elder/Home/Controller/OldmanController.class.php",
+		"/D/wamp/www/elder/elder/Home/Controller/IndexController.class.php",
+		"/D/wamp/www/elder/public/js/elder.js",
+		"/D/wamp/www/elder/elder/Home/View/Server/count.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Server/server.tpl",
+		"/D/wamp/www/elder/elder/Home/Controller/TestController.class.php",
+		"/D/wamp/www/elder/elder/Home/View/Index/index.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Test/index.tpl",
+		"/D/wamp/www/aplid/Application/Adminstrator/View/Integratedmachine/photo.html",
+		"/D/wamp/www/aplid/Application/Adminstrator/View/Integratedmachine/editphoto.html",
+		"/D/wamp/www/aplid/Application/Adminstrator/Controller/IntegratedmachineController.class.php",
+		"/D/wamp/www/base/config/web.php",
+		"/D/wamp/www/yii/requirements.php",
+		"/D/wamp/www/weibo/base/config/web.php",
+		"/D/wamp/www/index.php",
+		"/D/wamp/www/elder/elder/Home/View/Server/footer.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Volunteer/count.tpl",
+		"/D/wamp/www/elder/elder/Home/Model/VolunteerTimeModel.class.php",
+		"/D/wamp/www/elder/elder/Home/View/Volunteer/top.tpl",
+		"/D/wamp/www/elder/elder/Home/Controller/VolunteerController.class.php",
+		"/D/wamp/www/elder/elder/Home/View/Volunteer/footer.tpl",
+		"/D/wamp/www/elder/public/js/admin.js",
+		"/D/wamp/www/elder/public/js/index.js",
+		"/D/wamp/www/elder/public/css/aplid.css",
+		"/D/wamp/www/elder/public/css/elder.css",
+		"/D/wamp/www/elder/elder/Home/View/Oldman/consume_dd.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Volunteer/sidebar.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Server/sidebar_serv.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Server/sidebar.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Server/sidebar_coun.tpl",
+		"/D/wamp/www/elder/elder/Home/Controller/ServerController.class.php",
+		"/D/wamp/www/elder/elder/Home/Model/OrderModel.class.php",
+		"/D/wamp/www/aplid/Application/Adminstrator/Model/SubuserModel.class.php",
+		"/D/wamp/www/elder/elder/Home/Model/OrderSModel.class.php",
+		"/D/wamp/www/elder/elder/Home/View/Volunteer/sidebar_coun.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Volunteer/sidebar_chic.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Oldman/sidebar_cons.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Volunteer/chick.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Oldman/service.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Volunteer/service.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Volunteer/sidebar_serv.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Oldman/sidebar_serv.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Volunteer/index.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Oldman/index.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Server/index.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Admin/index.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Index/test.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Oldman/footer.tpl",
+		"/D/wamp/www/elder/elder/Home/Controller/AdminController.class.php",
+		"/C/Users/Administrator/Desktop/jiaoben3816/index.html",
+		"/D/wamp/www/elder/public/engine1/style.css",
+		"/D/wamp/www/elder/public/css/style.css",
+		"/C/Users/Administrator/Desktop/jiaoben3816/说明.txt",
+		"/C/Users/Administrator/Desktop/大图轮播代码/说明.txt",
+		"/C/Users/Administrator/Desktop/大图轮播代码/js/ie.js",
+		"/D/wamp/www/elder/elder/Home/View/Server/service.tpl",
+		"/E/软件学习/JavaScript/练习/第三十四章项目1-博客前端/封装库/Ajax发文/js/tool.js",
+		"/D/wamp/www/elder2/elder/Home/View/Index/index.tpl",
+		"/D/wamp/www/elder2/elder/Common/Conf/config.php",
+		"/D/wamp/www/elder2/elder/Home/View/Volunteer/top.tpl",
+		"/D/wamp/www/elder2/elder/Home/View/Server/top.tpl",
+		"/D/wamp/www/elder2/elder/Home/View/Oldman/top.tpl",
+		"/D/wamp/www/elder2/elder/Home/View/Volunteer/footer.tpl",
+		"/D/wamp/www/elder2/elder/Home/View/Server/footer.tpl",
+		"/D/wamp/www/elder2/elder/Home/View/Oldman/footer.tpl",
+		"/D/wamp/www/aplid/Application/Adminstrator/View/Info/yexcel.html",
+		"/D/wamp/www/aplid/Application/Adminstrator/View/Info/yindex.html",
+		"/D/wamp/www/elder/elder/Common/Conf/config.php",
+		"/D/wamp/www/aplid/Application/Adminstrator/Controller/AdminController.class.php",
+		"/D/wamp/www/aplid/Application/Adminstrator/Controller/InfoController.class.php",
+		"/C/Users/Administrator/Desktop/InfoController.class.php",
+		"/D/wamp/www/aplid/Application/Adminstrator/View/Server/index.html",
+		"/D/wamp/www/aplid/Application/Adminstrator/View/Public/base.html",
+		"/D/wamp/www/aplid/Application/Adminstrator/Common/function.php",
+		"/D/wamp/www/aplid/Application/Adminstrator/Controller/AuthManagerController.class.php",
+		"/D/wamp/www/aplid/Application/Adminstrator/View/Info/index.html",
+		"/D/wamp/www/aplid/Application/Common/Conf/config.php",
+		"/D/wamp/www/aplid/Application/Adminstrator/Widget/ShowButtonWidget.class.php",
+		"/D/wamp/www/aplid/Application/Adminstrator/Conf/fa.php",
+		"/D/wamp/www/aplid/Application/Adminstrator/Conf/config.php",
+		"/D/wamp/www/aplid/Application/Adminstrator/View/Info/hindex.html",
+		"/D/wamp/www/aplid/Application/Adminstrator/Model/InfoModel.class.php",
+		"/C/Users/Administrator/Desktop/软件手册/yexcel.html",
+		"/C/Users/Administrator/Desktop/软件手册/yindex.html",
+		"/C/Users/Administrator/Desktop/软件手册/InfoController.class.php",
+		"/D/wamp/www/elder/elder/Home/View/Oldman/blood_ecg.tpl",
+		"/D/wamp/www/elder/elder/Home/View/Oldman/succ.tpl",
+		"/C/Users/Administrator/Desktop/Application/Application/Adminstrator/View/Info/yexcel.html",
+		"/C/Users/Administrator/Desktop/Application/Application/Adminstrator/View/Info/index.html",
+		"/C/Users/Administrator/Desktop/Application/Application/Adminstrator/View/Info/yindex.html",
+		"/C/Users/Administrator/Desktop/Application/Application/Adminstrator/Controller/InfoController.class.php",
+		"/C/Users/Administrator/Desktop/index.php",
+		"/C/Users/Administrator/Desktop/Application/Application/Adminstrator/Model/InfoModel.class.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"D:\\wamp\\www\\elder",
+			"D:\\wamp\\www\\tp\\Weibo",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Virtual hosts",
+			">\n",
+			"/elder",
+			"session('parsent_id')",
+			"parsent_id",
+			"foreach",
+			"');\n",
+			"/elder",
+			"statu",
+			"vol_serv",
+			"/elder",
+			"授权",
+			"checkDynamic",
+			"/elder",
+			"class",
+			"/elder/",
+			"!</",
+			"></",
+			"create_time",
+			"/Home",
+			"/elder",
+			"/Home",
+			"test",
+			"success",
+			"chic_out",
+			"order",
+			"\n                            ",
+			"css('display','block')",
+			"css('display','none')",
+			"css('display','block')",
+			"parent",
+			"loading",
+			"']}",
+			"$user",
+			";\n",
+			"Instlog",
+			"html.",
+			"订单列表",
+			"Microsoft",
+			"$html",
+			"html",
+			"numb",
+			"        // print_r($user);",
+			"就餐",
+			"bus",
+			"busy.gif",
+			"请稍等！",
+			"\n        ",
+			"4",
+			"__PUBLIC__/",
+			"mappding_name",
+			"=\"###\"",
+			"target=\"main\"",
+			"4",
+			"8",
+			"']);\n",
+			"setcookie",
+			"form",
+			"post",
+			"\n}",
+			"1C972E",
+			"CBE7CF",
+			"./public",
+			"__PUBLIC__",
+			"userlogin",
+			"adver",
+			"db",
+			"userlogin_bg",
+			"images",
+			"align",
+			"UC_AUT",
+			"UC_AUTH_KEY",
+			"uc_auth_key",
+			"uc_autth_key",
+			"}\n",
+			"think_ucenter",
+			"UC_AUTH_KEY",
+			"\n    ",
+			"DROP",
+			"}\n",
+			"{$",
+			"());\n",
+			"img/",
+			");\n",
+			"\n})",
+			"1",
+			"bottom",
+			"';\n",
+			";\n",
+			"block",
+			"bar-right",
+			"-",
+			"07",
+			"7px",
+			"40px",
+			"ul",
+			"blue",
+			" $",
+			"	\n",
+			";\n",
+			"子类可以增加父类之外的新功能，因此子类也可以被称为父类的“扩展”",
+			"如果是非精贴",
+			"}\n",
+			"#article",
+			"usrename",
+			"article",
+			";\n",
+			"center",
+			"180px",
+			"']);",
+			"move_uploaded_file",
+			"photo",
+			"dir",
+			"密　　码：",
+			"WHERE",
+			"member",
+			"_num_rows",
+			";\n",
+			"manage_member",
+			"#member",
+			";\n",
+			"#manage",
+			"#member",
+			"#membere",
+			"dd",
+			"setcookies",
+			"setcoo",
+			"#post"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/Controllers/Admin/CategoryController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/admin/category/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Http/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog_laravel.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"demo2.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
